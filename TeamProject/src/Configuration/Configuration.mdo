@@ -334,6 +334,7 @@
   <constants>Constant.ТолькоЗащищеннаяАутентификацияPOP3</constants>
   <constants>Constant.ТолькоЗащищеннаяАутентификацияSMTP</constants>
   <constants>Constant.ОтметкаНаФотоснимкеТекст</constants>
+  <constants>Constant.Константа</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
