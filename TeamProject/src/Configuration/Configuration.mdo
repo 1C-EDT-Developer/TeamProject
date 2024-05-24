@@ -391,6 +391,7 @@
   <reports>Report.ПрайсЛист</reports>
   <reports>Report.АнализЗаказов</reports>
   <reports>Report.ОстаткиТоваровНаСкладахМобильный</reports>
+  <reports>Report.Отчет</reports>
   <dataProcessors>DataProcessor.АдминистративныйСервис</dataProcessors>
   <dataProcessors>DataProcessor.ДемонстрацияВозможностейДиаграмм</dataProcessors>
   <dataProcessors>DataProcessor.ЖурналРегистрации</dataProcessors>
