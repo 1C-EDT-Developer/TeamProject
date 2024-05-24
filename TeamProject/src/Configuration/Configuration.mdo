@@ -414,5 +414,6 @@
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ТоварныеЗапасы</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ВидыХарактеристик</chartsOfCharacteristicTypes>
+  <accountingRegisters>AccountingRegister.РегистрБухгалтерии</accountingRegisters>
   <bots>Bot.ОфисМенеджер</bots>
 </mdclass:Configuration>
