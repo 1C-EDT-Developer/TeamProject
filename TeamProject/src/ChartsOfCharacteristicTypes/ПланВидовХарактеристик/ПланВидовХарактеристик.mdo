@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCharacteristicTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="36fe879d-e0be-4c97-b71c-ffd573442bf5">
+  <producedTypes>
+    <objectType typeId="fc4b19a3-9e07-4221-8657-d30e4b978921" valueTypeId="0bdf2a72-4c9b-445d-8290-c8a45182bda3"/>
+    <refType typeId="577e2193-6a64-4f53-8f29-ce07ef7333d6" valueTypeId="442aaa1f-68d3-4ed7-8045-a84c62fb68b2"/>
+    <selectionType typeId="8d1b4b76-c53a-4dc0-b8da-d7c277a1bd2a" valueTypeId="970ae487-b16f-48f3-b5a0-bf9ab4aae596"/>
+    <listType typeId="a149e282-6505-4b83-b8ee-9f87c8fec634" valueTypeId="7a888d48-412b-4c12-8ec5-f8a8b3cb92af"/>
+    <managerType typeId="8ca9bd70-00f4-4907-86b6-2af43dfa8940" valueTypeId="7eb3d73c-6286-45cb-a5b3-3900200a97a0"/>
+    <containerType typeId="28a0f13f-4878-4916-a33d-f8938db32074" valueTypeId="3df03f68-ca1c-4a5a-9f88-02e653e2e220"/>
+  </producedTypes>
+  <name>ПланВидовХарактеристик</name>
+  <synonym>
+    <key>ru</key>
+    <value>План видов характеристик</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ChartOfCharacteristicTypes.ПланВидовХарактеристик.StandardAttribute.Code</inputByString>
+  <inputByString>ChartOfCharacteristicTypes.ПланВидовХарактеристик.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ChartOfCharacteristicTypes>
